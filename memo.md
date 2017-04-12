@@ -37,6 +37,15 @@
 		- 값: flex-start, center, flex-end, space-around, and space-between
 	- alignItems
 		- primary axis 말고, secondary axis, 즉 flexDirection이 column이었으면 secondary axis는 row가 된다. secondary axis에서 자식들을 어떻게 정렬할 것인지
+		
+### Networking
+- Fetch API
+	- 네트워크 요청을 위해 Fetch API를 제공합니다.
+	- 네트워킹은 비동기로 진행되기 위해 fetch 메소드는 Promise 객체를 반환합니다.
+- WebSocket
+	- 웹소켓은 양방향 통신이 가능합니다.
+
+
 
 ### Widget
 - Text
@@ -46,8 +55,7 @@
 - ScrollView
 	- ScrollView는 스크린에 보이지 않더라도 자식들 모두를 그립니다. 때문에 매우 긴 레이아웃을 가질 경우 ListView를 써야 합니다.
 - ListView
-	- Props
-		- dataSource와 renderRow가 필수다.
+	- Props로 dataSource와 renderRow가 필수다.
 
 
 
