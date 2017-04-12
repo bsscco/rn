@@ -31,7 +31,7 @@
   * flex의 값은 단일 숫자만 지원된다.
 * Styles
   * flexDirection
-      * 자식을 나열할 때 가장 먼저 기준이 되는 축(primary axis)의 방향
+    * 자식을 나열할 때 가장 먼저 기준이 되는 축(primary axis)의 방향
   * justifyContent
     * 자식들이 공간을 어떻게 나눠가질지
     * 값: flex-start, center, flex-end, space-around, and space-between
