@@ -32,9 +32,11 @@
 - Styles
   - flexDirection
     - 자식을 나열할 때 가장 먼저 기준이 되는 축(primary axis)의 방향
+    
   - justifyContent
     - 자식들이 공간을 어떻게 나눠가질지
     - 값: flex-start, center, flex-end, space-around, and space-between
+    
   - alignItems
     - primary axis 말고, secondary axis, 즉 flexDirection이 column이었으면 secondary axis는 row가 된다. secondary axis에서 자식들을 어떻게 정렬할 것인지
     
