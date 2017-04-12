@@ -46,6 +46,29 @@
 	- 웹소켓은 양방향 통신이 가능합니다.
 
 
+### Popular Libraries
+- Redux
+	- State를 어떻게 관리하고 다루는가를 패턴화하여 쉽게 사용할 수 있게끔 해주는 라이브러리
+	- 매우 단순한 구조
+- 샘플
+	- 플레이그라운드 : https://rnplay.org/apps/picks
+	- 2016 F8앱 소스 : https://github.com/fbsamples/f8app
+		- 시리즈 : http://makeitopen.com/tutorials/building-the-f8-app/planning/
+- 개발툴
+	- Nuclide
+		- RN 디버깅 기능 제공
+	- Ignite
+		- Redux와 UI 라이브러리들에 대한 스타터 킷
+	- CodePush
+		- 앱스토어 업뎃 없이 라이브로 RN앱을 업데이트 시킬 수 있는 서비스 by 마소
+	- Exponent
+		- AS, XCode 없이 Javascripty, Webby스럽게 RN앱을 제작할 수 있다.
+	- Deco
+		- 올인원 RN앱 제작만을 위한 개발툴
+		- RN 프로젝트 생성, 라이브러리 검색, 앱 실행 등이 가능
+		- 오직 맥에서만 가동
+
+
 
 ### Widget
 - Text
